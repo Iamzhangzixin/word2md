@@ -1,0 +1,5 @@
+python-docx>=0.8.11
+mammoth>=1.4.19
+pypandoc>=1.11
+Pillow>=9.0.0
+lxml>=4.6.0

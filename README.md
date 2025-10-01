@@ -76,12 +76,10 @@ github_release/
   - A: 大文档或含大量图片/表格时较慢，请耐心等待；界面会显示进度。
 
 ## 📄 许可证
-建议使用 MIT License（可根据你的需求调整）。
-
 ```
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
